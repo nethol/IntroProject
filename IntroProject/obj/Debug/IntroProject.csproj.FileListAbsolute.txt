@@ -1,0 +1,12 @@
+C:\Users\ernesto.pedraza\AppData\Local\Temporary Projects\IntroProject\bin\IntroProject.dll.config
+C:\Users\ernesto.pedraza\AppData\Local\Temporary Projects\IntroProject\bin\IntroProject.dll
+C:\Users\ernesto.pedraza\AppData\Local\Temporary Projects\IntroProject\bin\IntroProject.pdb
+C:\Users\ernesto.pedraza\AppData\Local\Temporary Projects\IntroProject\obj\Debug\IntroProject.csprojResolveAssemblyReference.cache
+C:\Users\ernesto.pedraza\AppData\Local\Temporary Projects\IntroProject\obj\Debug\IntroProject.dll
+C:\Users\ernesto.pedraza\AppData\Local\Temporary Projects\IntroProject\obj\Debug\IntroProject.pdb
+C:\Users\ernesto.pedraza\Documents\Visual Studio 2015\Projects\IntroProject\IntroProject\bin\IntroProject.dll.config
+C:\Users\ernesto.pedraza\Documents\Visual Studio 2015\Projects\IntroProject\IntroProject\bin\IntroProject.dll
+C:\Users\ernesto.pedraza\Documents\Visual Studio 2015\Projects\IntroProject\IntroProject\bin\IntroProject.pdb
+C:\Users\ernesto.pedraza\Documents\Visual Studio 2015\Projects\IntroProject\IntroProject\obj\Debug\IntroProject.dll
+C:\Users\ernesto.pedraza\Documents\Visual Studio 2015\Projects\IntroProject\IntroProject\obj\Debug\IntroProject.pdb
+C:\Users\ernesto.pedraza\Documents\Visual Studio 2015\Projects\IntroProject\IntroProject\obj\Debug\IntroProject.csprojResolveAssemblyReference.cache
